@@ -12,7 +12,7 @@ We advise that information that fits the following circumstances be published on
 
 * Information about an open-source project, its community and users
 
-* "How to use" or "tutorials" about packages (official or unofficial) 
+* "How to use" or "tutorials" about packages (official or unofficial) _posts/2020-02-27-my-first-post.md
 
 Blogs are shared on <https://planet.opensuse.org/>, which is a web feed aggregator that collects blog posts from people about openSUSE.
 
@@ -64,7 +64,7 @@ Resulting site will be in `_site` directory.
 bundle install --path vendor/bundle
 bundle exec jekyll serve
 ```
-
+EMOJIS SOURCE https://emoji-share.com/
 Visit <http://127.0.0.1:4000/> in your browser.
 
 ## How to use emojis in your blog post?
